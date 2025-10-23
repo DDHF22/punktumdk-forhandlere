@@ -1,9 +1,9 @@
-| Virksomhed                                                                     | Adresse                                                                   | Fornyelsespris | Opdateret  |
-|--------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------|------------|
+| Virksomhed                                                                     | Adresse                                                                   | Fornyelsespris | Opdateret  | Kommentar
+|--------------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------|------------|-----------
 | A/S SCANNET                                                                    |  Højvangen 4, Skanderborg, Danmark                                        |                |            |
 | Abion AB                                                                       |  Kungsgatan 42, Goteborg, Sverige                                         |                |            |
 | ASCIO TECHNOLOGIES, CORP. DANMARK - FILIAL AF ASCIO TECHNOLOGIES, CORP. CANADA |  Strandvejen 125, Hellerup, Danmark                                       |                |            |
-| AzeHosting ApS                                                                 |  Hornevej 7, Kastrup, Danmark                                             |                |            |
+| AzeHosting ApS                                                                 |  Hornevej 7, Kastrup, Danmark                                             | 150            | 23/10/2025 | Prisen sat op fra 105 efter udmelding fra PunktumDK !!
 | BARBERO & Associates Ltd                                                       |  3 Shortlands, 4th floor, London, England                                 |                |            |
 | BB Online Limited                                                              |  183A Icknield Way, Luton, England                                        |                |            |
 | BO DATA ApS                                                                    |  Østergade 2, 1. th., Vildbjerg, Danmark                                  |                |            |
